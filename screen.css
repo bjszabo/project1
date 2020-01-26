@@ -59,6 +59,7 @@ h1 {
   color: hotpink;
   font-style: italic;
   justify-content: center;
+	font-weight: bold;
 }
 h3 {
   text-align: center;
@@ -81,4 +82,6 @@ p {
   padding-bottom: .75em;
   font-size: 1em;
   font-style: normal;
+	text-indent: 1.2em;
+	font-weight: lighter;
 }
