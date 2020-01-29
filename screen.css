@@ -50,38 +50,34 @@ table {
 /*Add custom styles below*/
 html {
   padding: 0.5em;
-	font-family: 'cursive', "Comic Sans MS", sans-serif;
+	font-family: 'Sansita', sans-serif;
 }
 h1 {
   text-align: center;
-  font-size: 3em;
+  font-size: 4em;
   padding-bottom: .25em;
   color: hotpink;
-  font-style: italic;
+	font-weight: bolder;
   justify-content: center;
 	font-weight: bold;
-}
-h3 {
-  text-align: center;
-  font-size: 2.5em;
-  padding-bottom: .25em;
-  color: slategray;
-  font-style: normal;
-  justify-content: center;
 }
 h2 {
   text-align: center;
   font-size: 2em;
   color: pink;
-  font-family: cursive;
+  font-family: "fahkwang", helvetica, arial, sans-serif;
+	font-weight: bold;
   padding-bottom: 1em;
   padding-top: 1em;
 }
 p {
-  color: slategrey;
+  color: lightslategray;
   padding-bottom: .75em;
+	font-family: "fahkwang", helvetica, arial, sans-serif;
   font-size: 1em;
   font-style: normal;
 	text-indent: 1.2em;
 	font-weight: lighter;
+	line-height: 1.5em;
+	hyphens: auto;
 }
