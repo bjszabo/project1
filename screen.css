@@ -51,6 +51,8 @@ table {
 html {
   padding: 0.5em;
 	font-family: 'Sansita', sans-serif;
+	margin-left: 4em;
+	margin-right: 4em;
 }
 h1 {
   text-align: center;
