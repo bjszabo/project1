@@ -37,3 +37,16 @@ p {
 	padding-bottom: .75em;
 	text-justify: inter-word;
 }
+.me {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.son {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	width: 20%;
+}
