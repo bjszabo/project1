@@ -6,52 +6,52 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles... */
 html {
-	background-color: black;
-	font-family: "fahkwang", helvetica, arial, sans-serif;
-	margin-left: 4em;
-	margin-right: 4em;
-	padding: 0.5em;
+  background-color: black;
+  font-family: "fahkwang", helvetica, arial, sans-serif;
+  margin-left: 4em;
+  margin-right: 4em;
+  padding: 0.5em;
 }
 h1 {
-	color: hotpink;
-	font-family: 'Sansita', sans-serif;
-	font-size: 4em;
-	font-weight: bolder;
-	padding-bottom: .25em;
-	text-align: center;
+  color: hotpink;
+  font-family: 'Sansita', sans-serif;
+  font-size: 4em;
+  font-weight: bolder;
+  padding-bottom: .25em;
+  text-align: center;
 }
 h2 {
-	color: pink;
-	font-size: 2em;
-	font-weight: bold;
-	padding-bottom: 1em;
-	padding-top: 1em;
-	text-align: center;
+  color: pink;
+  font-size: 2em;
+  font-weight: bold;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  text-align: center;
 }
 p {
-	color: lightslategrey;
-	font-size: 1em;
-	font-style: normal;
-	font-weight: normal;
-	line-height: 1.4em;
-	padding-bottom: .75em;
-	text-justify: inter-word;
+  color: lightslategrey;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.4em;
+  padding-bottom: .75em;
+  text-justify: inter-word;
 }
 /* Responsive Media */
 img {
-	display: block;
-	max-width: 100%;
+  display: block;
+  max-width: 100%;
 }
 .me {
-	margin-left: auto;
-	margin-right: auto;
-	width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 .son {
-	margin-left: auto;
-	margin-right: auto;
-	position:absolute;
-	top: 30%;
-	left: 55%;
-	width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  position:absolute;
+  top: 30%;
+  left: 55%;
+  width: 15%;
 }
